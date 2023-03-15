@@ -24,7 +24,7 @@ int main()
 	printf(" %c | %c | %c \n", a[6], a[7], a[8]);
 
 
-	for (i = 0; i <= 3; i++)
+	for (i = 0; i <= 9; i++)
 	{
 
 		printf("Please pick a box: ");
@@ -89,6 +89,8 @@ int main()
 		printf("___|___|___\n");
 		printf("3  |   |   \n");
 		printf(" %c | %c | %c \n", a[6], a[7], a[8]);
+
+
 	}
 
 	return 0;
