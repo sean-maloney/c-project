@@ -80,6 +80,7 @@ int main()
 				break;
 			}
 			}
+
 			opponent = move(a);
 
 			if (opponent == 0)
@@ -114,6 +115,11 @@ int main()
 	{
 		b = rand() % 9;
 		if (arr[b] == 'x')
+		{
+			return 0;
+		}
+		
+		else if (arr[b] == 'O')
 		{
 			return 0;
 		}
