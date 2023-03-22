@@ -124,14 +124,7 @@ int main()
 		}
 	}
 
-<<<<<<< HEAD
+
 	return 0;
 }
 
-
-
-
-
-=======
-}
->>>>>>> 6c55e643191d2ee89c7a81d6a9eaf832cb1ecb25
