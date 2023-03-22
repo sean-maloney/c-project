@@ -1,4 +1,5 @@
 ﻿  Main.cpp
-C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\Main.cpp(133): warning C4715: 'move': not all control paths return a value
-  Main.c.vcxproj -> C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\x64\Debug\Main.c.exe
+C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(13,24): warning C4101: 'check': unreferenced local variable
+C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(149): warning C4715: 'move': not all control paths return a value
+  Main.c.vcxproj -> C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\x64\Debug\Main.c.exe
