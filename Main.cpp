@@ -10,12 +10,18 @@ int check(char arr[]);
 int main()
 {
 	srand(time(0));
+<<<<<<< HEAD
 	int box, i, opponent, check;
 	char a[9] = { ' ',' ',' ',' ',' ',' ',' ',' ',' ' };
+=======
+	int box, i, opponent, c = 0;
+	char a[9] = { ' ',' ',' ',' ',' ',' ',' ',' ',' '};
+>>>>>>> 34c6ad5a9466b3afac128f3282e0c7917f537333
 
 
 
 	printf("Tic-tac-toe\n\n");
+<<<<<<< HEAD
 	printf(" 1 | 2 | 3 \n");
 	printf(" %c | %c | %c \n", a[0], a[1], a[2]);
 	printf("___|___|___\n");
@@ -23,12 +29,27 @@ int main()
 	printf(" %c | %c | %c \n", a[3], a[4], a[5]);
 	printf("___|___|___\n");
 	printf(" 7 | 8 | 9 \n");
+=======
+	printf(" 1   2   3\n");
+	printf("  |   |   \n");
+	printf(" %c | %c | %c \n", a[0], a[1], a[2]);
+	printf("___|___|___\n");
+	printf("  |   |   \n");
+	printf(" %c | %c | %c \n", a[3], a[4], a[5]);
+	printf("___|___|___\n");
+	printf("  |   |   \n");
+>>>>>>> 34c6ad5a9466b3afac128f3282e0c7917f537333
 	printf(" %c | %c | %c \n", a[6], a[7], a[8]);
 	printf("   |   |   \n");
 
 
 	for (i = 0; i <= 9; i++)
 	{
+<<<<<<< HEAD
+=======
+
+		if (c = 0)
+>>>>>>> 34c6ad5a9466b3afac128f3282e0c7917f537333
 		printf("Please pick a box: ");
 		scanf_s("%i", &box);
 
