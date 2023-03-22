@@ -9,26 +9,27 @@ int move(char arr[]);
 int main()
 {
 	srand(time(0));
-	int box, i, opponent;
+	int box, i, opponent, c = 0;
 	char a[9] = { ' ',' ',' ',' ',' ',' ',' ',' ',' '};
 
 
 
 	printf("Tic-tac-toe\n\n");
 	printf(" 1   2   3\n");
-	printf("1  |   |   \n");
+	printf("  |   |   \n");
 	printf(" %c | %c | %c \n", a[0], a[1], a[2]);
 	printf("___|___|___\n");
-	printf("2  |   |   \n");
+	printf("  |   |   \n");
 	printf(" %c | %c | %c \n", a[3], a[4], a[5]);
 	printf("___|___|___\n");
-	printf("3  |   |   \n");
+	printf("  |   |   \n");
 	printf(" %c | %c | %c \n", a[6], a[7], a[8]);
 
 
 	for (i = 0; i <= 9; i++)
 	{
 
+		if (c = 0)
 		printf("Please pick a box: ");
 		scanf_s("%i", &box);
 		
