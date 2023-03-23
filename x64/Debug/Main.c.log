@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-﻿  Main.c.vcxproj -> C:\Users\G00420811.GMADTREE\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\x64\Debug\Main.c.exe
-=======
 ﻿  Main.cpp
-<<<<<<< HEAD
-C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\Main.cpp(133): warning C4715: 'move': not all control paths return a value
-  Main.c.vcxproj -> C:\Users\G00425075.GMADTREE\OneDrive - Atlantic TU\C++ Programming\Project github\c-project\x64\Debug\Main.c.exe
->>>>>>> 462f21bc4d428fbc1fdda58a68407c3fe54e59be
-=======
-C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(13,24): warning C4101: 'check': unreferenced local variable
-C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\Main.cpp(149): warning C4715: 'move': not all control paths return a value
-  LINK : C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\x64\Debug\Main.c.exe not found or not built by the last incremental link; performing full link
-  Main.c.vcxproj -> C:\Users\G00425056@atu.ie\OneDrive - Atlantic TU\Project\c-project\x64\Debug\Main.c.exe
->>>>>>> 4bea0023aaf74df1302983e13f463ff807cb4a6b
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(30,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(30,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(30,10): message : the missing variadic argument 2 is required by format string '%[^\n]'
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(30,10): message : this argument is used as a buffer size
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(13,24): warning C4101: 'check': unreferenced local variable
+C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\Main.cpp(171): warning C4715: 'move': not all control paths return a value
+  Main.c.vcxproj -> C:\Users\G00420811@atu.ie\OneDrive - Atlantic TU\School Computer\Code\C++Project\Main.c\x64\Debug\Main.c.exe
